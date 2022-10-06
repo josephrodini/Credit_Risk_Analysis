@@ -10,16 +10,22 @@ This project was undertaken in order to evaluate the granting of loans, with the
 
 ### Resources
 
-- Data Sources: LoanStats_2019Q1.csv
+- Data Source: LoanStats_2019Q1.csv
 - Technology: Jupyter Notebook, Python, scikit-learn library, imbalanced-learn library
 
 ## Results
 
+### Data
+
+A CSV file of loan information was obtained for analysis. See below for a snapshot of the dataframe. As expected, the number of low-risk loans vastly outnumbered the risky loans by a tally of 68470 to 347.
+
 ### Random Oversampling
 
-### Cluster Centroids
+
 
 ### SMOTE
+
+### Cluster Centroids Undersampling
 
 ### SMOTEENN
 
